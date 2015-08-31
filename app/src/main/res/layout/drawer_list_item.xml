@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/drawer">
+
+    <ImageView
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:background="@color/red"
+        android:src="@drawable/like_drawer"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/drawerListIcon"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:textSize="17sp"
+        android:textColor="#e2000000"
+        android:text="alsdkasd"
+        android:gravity="center"
+        android:id="@+id/drawerListText"/>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cmritfeed</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="drawerNames" >
+        <item >"Upcoming"</item>
+        <item >"Trending"</item>
+        <item >"Votes"</item>
+        <item >"Clubs"</item>
+        <item >"Setting"</item>
+    </string-array>
+    <string-array name="clubNames">
+        <item >"Art"</item>
+        <item >"Dance"</item>
+        <item >"Kannada"</item>
+        <item >"Literature"</item>
+        <item >"Music"</item>
+        <item >"Photography"</item>
+        <item >"Technical"</item>
+        <item >"Theatre"</item>
+    </string-array>
+</resources>
